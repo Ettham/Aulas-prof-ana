@@ -108,7 +108,7 @@ nome.replace("Victor","Desenvolvedor")
 
 //10) crie um sistema simples de login. Usuario so entra se o email nao estiver vazio e a senha tiver pelo menos 6 carateres
 
-let email = "";
+let email = "emai@exemplos.com";
 let senha = "123456";
 
 if(email && senha.length >=6)
